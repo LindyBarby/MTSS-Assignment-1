@@ -1,8 +1,9 @@
 1220244 2013446
 
 # Inventario
-- [Processori](./processori.md) 
+## Componenti
+- [Processori](./componenti/processori.md) 
 
-- [Schede Madri](./schede_madri.md)
+- [Schede Madri](./componenti/schede_madri.md)
 
 Elettronica Padovana
